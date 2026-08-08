@@ -43,7 +43,7 @@
 
 ## 验证清单
 
-- 运行 `git diff --check`，确保没有空白错误。
+- 运行 `git diff HEAD --check`，确保没有空白错误。
 - 检查 Markdown 标题层级、HTML 标签闭合和表格结构。
 - 检查新增或修改的链接、图片地址和仓库名称。
-- 运行 `git status --short` 和 `git diff --stat`，确认变更范围符合任务。
+- 运行 `git status --short` 和 `git diff HEAD --stat`，确认变更范围符合任务。
