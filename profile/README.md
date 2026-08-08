@@ -42,7 +42,7 @@
 
 ## 一起构建
 
-欢迎通过 [Issues](https://github.com/orgs/XiyouMobile3G-iOS/issues) 提出建议、补充资料或分享实践。
+欢迎通过 [Issues](https://github.com/XiyouMobile3G-iOS/3G-share-request-source/issues/new/choose) 提出建议、补充资料或分享实践。
 
 <div align="center">
   <sub>Designed for clarity.<br />Built for learning.</sub>
