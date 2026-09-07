@@ -6,6 +6,8 @@
   <h1>XiyouMobile3G · iOS</h1>
   <p><strong>探索 Apple 平台。沉淀工程实践。构建可交付的产品。</strong></p>
   <p>
+    <a href="https://github.com/XiyouMobile3G-iOS/newcomer-reading">新人阅读</a>
+    &nbsp;·&nbsp;
     <a href="#精选项目">浏览项目</a>
     &nbsp;·&nbsp;
     <a href="#知识沉淀">查看知识库</a>
